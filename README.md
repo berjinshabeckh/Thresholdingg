@@ -30,9 +30,9 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-Developed by:MARELLA HASINI
+Developed by:Berjin Shabeck
 
-Register number:212223240083
+Register number:212222240018
 
 ```python
 # Load the necessary packages
